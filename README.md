@@ -1,6 +1,6 @@
 # knoxpy-flask-web-dev
 
-Slides and Code from my talk on Web Development with Flask at KnoxPy
+Slides and Code from my talk on Web Development with Flask at KnoxPy on October 6th, 2016.
 
 
 ### Note on Redzone Demo
