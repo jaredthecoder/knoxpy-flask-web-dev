@@ -1,0 +1,4 @@
+Title: Building a Website with Python and Flask from Scratch
+Alternative Title: Introduction to Flask: Building Dynamic Websites the Easy Way
+
+Description: With so many options to choose from these days when it comes to building a website, whether for your own project or for a professional client, it is overwhelming to survey the landscape of web frameworks and see all the varying options. However, Python offers Flask, one of the most minimal, yet expressive frameworks available in Python and in the broader community, where you can get a "Hello World" website up and running with less than 10 lines of code. In this presentation and demonstration, we will run through why you should use Flask for your next project, explore some of the community around it, and finish with a demonstration of building a simple Reddit-like website for posting links and messages to a central feed.

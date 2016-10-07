@@ -1,0 +1,21 @@
+
+{% extends "layout.html" %}
+{% block content %}
+<div class="container-narrow">
+  <h1>Add Message</h1>
+    <br/>
+    <form id="addMessageForm" class="form form-register" method="POST" name="create-message">
+            {{ form.hidden_tag() }}
+            <div class="form-group">
+                {{form.title.label}}
+                {{form.title(placeholder="Your Message Title", class_="form-control")}}
+            </div>
+            <div class="form-group">
+                {{form.message.label}}
+                {{form.message(placeholder="Your Message Here", class_="form-control", cols="80", rows="10")}}
+            </div>
+            <p><input class="btn btn-default btn-submit" type="submit" value="Add Message" name="submit"></p>
+    </form>
+</div>
+{% endblock %}
+

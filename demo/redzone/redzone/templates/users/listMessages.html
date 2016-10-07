@@ -1,0 +1,10 @@
+
+{% extends "layout.html" %}
+{% block content %}
+    <h1>Your Messages</h1>
+    {% for message in messages %}
+        <div class="message">
+            {{ message.title }}: {{ message.message }}
+        </div>
+    {% endfor %}
+{% endblock %}
