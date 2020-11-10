@@ -3,7 +3,7 @@ bcrypt==2.0.0
 blinker==1.4
 cffi==1.5.0
 cssmin==0.2.0
-Flask==0.10.1
+Flask==1.0
 Flask-Assets==0.11
 Flask-Bcrypt==0.7.1
 Flask-Cache==0.13.1
