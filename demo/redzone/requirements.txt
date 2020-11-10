@@ -13,7 +13,7 @@ Flask-Migrate==1.6.0
 Flask-Script==2.0.5
 Flask-SQLAlchemy==2.1
 Flask-WTF==0.12
-gunicorn==19.4.5
+gunicorn==19.5.0
 itsdangerous==0.24
 Jinja2==2.8
 jsmin==2.2.0
