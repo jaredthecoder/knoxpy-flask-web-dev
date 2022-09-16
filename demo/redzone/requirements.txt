@@ -17,7 +17,7 @@ gunicorn==19.4.5
 itsdangerous==0.24
 Jinja2==2.8
 jsmin==2.2.0
-Mako==1.0.3
+Mako==1.2.2
 MarkupSafe==0.23
 pycparser==2.14
 python-editor==0.5
